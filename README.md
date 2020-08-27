@@ -2,8 +2,8 @@
 
 
 
-this C code solve 9-by-9 sudokus<br>
-the algorithm is based on recursive functions<br>
+this C code solve 9-by-9 sudokus<br><br>
+the algorithm is based on recursive functions<br><br>
 here is the method:<br>
 1-enumerating all empty cells<br>
 2-'current cell' is the first cell in the enumeration<br>
