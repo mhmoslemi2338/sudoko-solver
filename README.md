@@ -1,4 +1,4 @@
-<b>Sudoku solver with C</b><br>
+<b><b>Sudoku solver with C</b></b><br>
 
 
 
@@ -6,7 +6,7 @@ this C code solve 9-by-9 sudokus<br><br>
 write your unsolved sudoku in the code as variable 'sdk' which comes at the beginning of the code(don't change 'sdk_')<br><br>
 the algorithm is based on recursive functions<br><br>
 ****************************************************************************************
-here is the method:<br>
+<b>here is the method:</b><br>
 1-enumerating all empty cells<br>
 2-'current cell' is the first cell in the enumeration<br>
 3-we enter 1 into the current cell if this breaches the sudoku conditions, try entering 2 if not 3 and so on; until:<br>
