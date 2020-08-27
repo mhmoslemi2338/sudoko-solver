@@ -3,7 +3,9 @@
 
 
 this C code solve 9-by-9 sudokus<br><br>
+write your unsolved sudoku in the code as variable 'sdk' which comes at the beginning of the code(don't change 'sdk_')<br><br>
 the algorithm is based on recursive functions<br><br>
+****************************************************************************************
 here is the method:<br>
 1-enumerating all empty cells<br>
 2-'current cell' is the first cell in the enumeration<br>
@@ -18,4 +20,4 @@ set the previous cell to the current cell and go to step 3
 
 
 
-write your unsolved sudoku in the code as variable 'sdk' which comes at the beginning of the code(don't change 'sdk_')
+
